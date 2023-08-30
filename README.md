@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/abithjvinith" target="blank"><img src="https://img.shields.io/twitter/follow/abithjvinith?logo=twitter&style=for-the-badge" alt="abithjvinith" /></a> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Advanced concepts in React & Python**
 
 - 💬 Ask me about **python, react, html, css**
 
